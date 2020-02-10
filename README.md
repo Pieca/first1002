@@ -1,2 +1,6 @@
-# first1002
-Projekt transformacja, czyli matrix - poznaj reguły gry
+# Projekt transformacja, czyli Matrix - ponaj reguły gry
+
+Tutaj pojawi się 5 dni z projektu transformacja - część pierwsza
+- a
+- b
+- c
